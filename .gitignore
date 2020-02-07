@@ -1,0 +1,8 @@
+target/
+.idea/
+.bloop/
+.metals/
+/lwjgl
+project/target/
+imgui.ini
+project/metals.sbt
